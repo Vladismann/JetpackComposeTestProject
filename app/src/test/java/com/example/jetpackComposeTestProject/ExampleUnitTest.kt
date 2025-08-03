@@ -1,4 +1,4 @@
-package com.example.JetpackComposeTestProject
+package com.example.jetpackComposeTestProject
 
 import org.junit.Test
 
